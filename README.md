@@ -1,1 +1,3 @@
-# -Phaser-Guess-and-Pair-Game
+# Simple Guess and Pair Game
+
+Uses Phaser 3 javascript game engine
